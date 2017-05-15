@@ -118,6 +118,7 @@ img {
 	position: relative;
 	float: left;
 	display: inline-block;
+	opacity: .8;
 }
 
 .imagetext {
